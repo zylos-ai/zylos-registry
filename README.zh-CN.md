@@ -51,7 +51,7 @@ zylos add browser
 ### 要求
 
 - 公开的 GitHub 仓库
-- 有效的 `package.json`，名称以 `zylos-` 开头
+- 有效的 `package.json`（官方组件使用 `zylos-` 前缀）
 - 可用的 `SKILL.md` 用于智能体集成
 - MIT 许可证（推荐）
 

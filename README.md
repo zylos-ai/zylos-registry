@@ -51,7 +51,7 @@ Want to add your component to the registry?
 ### Requirements
 
 - Public GitHub repository
-- Valid `package.json` with `zylos-` prefix in name
+- Valid `package.json` (official components use `zylos-` prefix)
 - Working `SKILL.md` for agent integration
 - MIT license (recommended)
 
