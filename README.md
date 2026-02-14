@@ -32,6 +32,7 @@
 |-----------|------|-------------|
 | [telegram](https://github.com/zylos-ai/zylos-telegram) | communication | Telegram messaging |
 | [lark](https://github.com/zylos-ai/zylos-lark) | communication | Lark/Feishu messaging |
+| [feishu](https://github.com/zylos-ai/zylos-feishu) | communication | Feishu messaging (飞书, WebSocket + Webhook) |
 | [browser](https://github.com/zylos-ai/zylos-browser) | capability | Browser automation |
 
 ## Usage
@@ -41,6 +42,7 @@ The registry is used automatically by the Zylos CLI:
 ```bash
 zylos add telegram
 zylos add lark
+zylos add feishu
 zylos add browser
 ```
 
@@ -65,7 +67,6 @@ Want to add your component to the registry?
 
 ```json
 {
-  "version": "2.0.0",
   "components": {
     "component-name": {
       "repo": "owner/repo",

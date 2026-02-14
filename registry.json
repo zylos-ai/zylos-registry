@@ -12,6 +12,12 @@
       "type": "communication",
       "official": true
     },
+    "feishu": {
+      "repo": "zylos-ai/zylos-feishu",
+      "description": "Feishu messaging component for Zylos agents (飞书, WebSocket + Webhook dual mode)",
+      "type": "communication",
+      "official": true
+    },
     "browser": {
       "repo": "zylos-ai/zylos-browser",
       "description": "Browser automation component for Zylos agents",
