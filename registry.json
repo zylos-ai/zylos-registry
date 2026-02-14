@@ -8,7 +8,7 @@
     },
     "lark": {
       "repo": "zylos-ai/zylos-lark",
-      "description": "Lark/Feishu messaging component for Zylos agents",
+      "description": "Lark messaging component for Zylos agents",
       "type": "communication",
       "official": true
     },
