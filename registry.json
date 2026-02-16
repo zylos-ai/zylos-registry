@@ -23,6 +23,12 @@
       "description": "Browser automation component for Zylos agents",
       "type": "capability",
       "official": true
+    },
+    "imagegen": {
+      "repo": "zylos-ai/zylos-imagegen",
+      "description": "AI image generation and editing using Google Gemini models",
+      "type": "capability",
+      "official": true
     }
   }
 }
