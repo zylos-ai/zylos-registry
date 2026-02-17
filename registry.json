@@ -18,6 +18,12 @@
       "type": "communication",
       "official": true
     },
+    "botshub": {
+      "repo": "coco-xyz/zylos-botshub",
+      "description": "BotsHub agent-to-agent communication channel via WebSocket",
+      "type": "communication",
+      "official": false
+    },
     "browser": {
       "repo": "zylos-ai/zylos-browser",
       "description": "Browser automation component for Zylos agents",
