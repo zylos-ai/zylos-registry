@@ -18,9 +18,9 @@
       "type": "communication",
       "official": true
     },
-    "botshub": {
-      "repo": "coco-xyz/zylos-botshub",
-      "description": "BotsHub agent-to-agent communication channel via WebSocket",
+    "hxa-connect": {
+      "repo": "coco-xyz/zylos-hxa-connect",
+      "description": "HXA-Connect bot-to-bot communication channel via WebSocket",
       "type": "communication",
       "official": false
     },
