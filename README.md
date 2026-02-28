@@ -4,6 +4,8 @@
 
 <h1 align="center">🐙 zylos-registry</h1>
 
+> **Zylos** (/ˈzaɪ.lɒs/) — Give your AI a life
+
 <p align="center">
   Component registry for the <a href="https://github.com/zylos-ai/zylos-core">Zylos</a> ecosystem.
 </p>
