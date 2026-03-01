@@ -12,6 +12,12 @@
       "type": "communication",
       "official": true
     },
+    "wecom": {
+      "repo": "zylos-ai/zylos-wecom",
+      "description": "WeCom (企业微信) messaging component for Zylos agents",
+      "type": "communication",
+      "official": true
+    },
     "feishu": {
       "repo": "zylos-ai/zylos-feishu",
       "description": "Feishu messaging component for Zylos agents (飞书, WebSocket + Webhook dual mode)",
