@@ -18,6 +18,12 @@
       "type": "communication",
       "official": true
     },
+    "dingtalk": {
+      "repo": "zylos-ai/zylos-dingtalk",
+      "description": "DingTalk (钉钉) messaging component for Zylos agents (Stream mode)",
+      "type": "communication",
+      "official": true
+    },
     "feishu": {
       "repo": "zylos-ai/zylos-feishu",
       "description": "Feishu messaging component for Zylos agents (飞书, WebSocket + Webhook dual mode)",
