@@ -18,6 +18,12 @@
       "type": "communication",
       "official": true
     },
+    "slack": {
+      "repo": "zylos-ai/zylos-slack",
+      "description": "Slack messaging component for Zylos agents (Socket Mode + Webhook)",
+      "type": "communication",
+      "official": true
+    },
     "dingtalk": {
       "repo": "zylos-ai/zylos-dingtalk",
       "description": "DingTalk (钉钉) messaging component for Zylos agents (Stream mode)",
