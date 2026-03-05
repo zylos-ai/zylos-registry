@@ -31,8 +31,19 @@
 | 组件 | 类型 | 说明 |
 |------|------|------|
 | [telegram](https://github.com/zylos-ai/zylos-telegram) | 通讯 | Telegram 消息 |
-| [lark](https://github.com/zylos-ai/zylos-lark) | 通讯 | 飞书/Lark 消息 |
+| [lark](https://github.com/zylos-ai/zylos-lark) | 通讯 | Lark 消息（国际版） |
+| [feishu](https://github.com/zylos-ai/zylos-feishu) | 通讯 | 飞书消息（中国大陆版） |
+| [wecom](https://github.com/zylos-ai/zylos-wecom) | 通讯 | 企业微信消息 |
+| [slack](https://github.com/zylos-ai/zylos-slack) | 通讯 | Slack 消息（Socket Mode + Webhook） |
+| [dingtalk](https://github.com/zylos-ai/zylos-dingtalk) | 通讯 | 钉钉消息（Stream 模式） |
 | [browser](https://github.com/zylos-ai/zylos-browser) | 能力 | 浏览器自动化 |
+| [imagegen](https://github.com/zylos-ai/zylos-imagegen) | 能力 | AI 图像生成（Google Gemini） |
+
+### 社区组件
+
+| 组件 | 类型 | 说明 |
+|------|------|------|
+| [hxa-connect](https://github.com/coco-xyz/zylos-hxa-connect) | 通讯 | HXA-Connect 智能体间通讯 |
 
 ## 使用方式
 
@@ -41,7 +52,12 @@ Zylos CLI 会自动使用注册表：
 ```bash
 zylos add telegram
 zylos add lark
+zylos add feishu
+zylos add wecom
+zylos add slack
+zylos add dingtalk
 zylos add browser
+zylos add imagegen
 ```
 
 ## 提交你的组件
@@ -65,7 +81,6 @@ zylos add browser
 
 ```json
 {
-  "version": "2.0.0",
   "components": {
     "component-name": {
       "repo": "owner/repo",
