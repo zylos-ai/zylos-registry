@@ -8,7 +8,7 @@
     },
     "lark": {
       "repo": "zylos-ai/zylos-lark",
-      "description": "Lark messaging component for Zylos agents",
+      "description": "Lark (international) messaging component for Zylos agents",
       "type": "communication",
       "official": true
     },
@@ -32,7 +32,7 @@
     },
     "feishu": {
       "repo": "zylos-ai/zylos-feishu",
-      "description": "Feishu messaging component for Zylos agents (飞书, WebSocket + Webhook dual mode)",
+      "description": "Feishu (飞书, mainland China) messaging component for Zylos agents. WebSocket + Webhook dual mode",
       "type": "communication",
       "official": true
     },
