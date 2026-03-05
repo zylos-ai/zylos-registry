@@ -33,9 +33,19 @@
 | Component | Type | Description |
 |-----------|------|-------------|
 | [telegram](https://github.com/zylos-ai/zylos-telegram) | communication | Telegram messaging |
-| [lark](https://github.com/zylos-ai/zylos-lark) | communication | Lark/Feishu messaging |
-| [feishu](https://github.com/zylos-ai/zylos-feishu) | communication | Feishu messaging (飞书, WebSocket + Webhook) |
+| [lark](https://github.com/zylos-ai/zylos-lark) | communication | Lark (international) messaging |
+| [feishu](https://github.com/zylos-ai/zylos-feishu) | communication | Feishu (飞书, mainland China) messaging |
+| [wecom](https://github.com/zylos-ai/zylos-wecom) | communication | WeCom (企业微信) messaging |
+| [slack](https://github.com/zylos-ai/zylos-slack) | communication | Slack messaging (Socket Mode + Webhook) |
+| [dingtalk](https://github.com/zylos-ai/zylos-dingtalk) | communication | DingTalk (钉钉) messaging (Stream mode) |
 | [browser](https://github.com/zylos-ai/zylos-browser) | capability | Browser automation |
+| [imagegen](https://github.com/zylos-ai/zylos-imagegen) | capability | AI image generation (Google Gemini) |
+
+### Community Components
+
+| Component | Type | Description |
+|-----------|------|-------------|
+| [hxa-connect](https://github.com/coco-xyz/zylos-hxa-connect) | communication | HXA-Connect bot-to-bot communication |
 
 ## Usage
 
@@ -45,7 +55,11 @@ The registry is used automatically by the Zylos CLI:
 zylos add telegram
 zylos add lark
 zylos add feishu
+zylos add wecom
+zylos add slack
+zylos add dingtalk
 zylos add browser
+zylos add imagegen
 ```
 
 ## Submit Your Component
