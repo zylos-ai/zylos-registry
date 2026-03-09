@@ -53,6 +53,12 @@
       "description": "AI image generation and editing using Google Gemini models",
       "type": "capability",
       "official": true
+    },
+    "notion": {
+      "repo": "zylos-ai/zylos-notion",
+      "description": "Notion workspace integration for Zylos agents — search, read, create, and append to pages and databases",
+      "type": "capability",
+      "official": true
     }
   }
 }
