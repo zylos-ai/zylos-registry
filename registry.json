@@ -59,6 +59,12 @@
       "description": "Notion workspace integration for Zylos agents — search, read, create, and append to pages and databases",
       "type": "capability",
       "official": true
+    },
+    "whatsapp": {
+      "repo": "zylos-ai/zylos-whatsapp",
+      "description": "WhatsApp Web messaging component for Zylos agents (Baileys protocol, QR login)",
+      "type": "communication",
+      "official": true
     }
   }
 }
