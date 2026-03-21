@@ -65,6 +65,12 @@
       "description": "WhatsApp Web messaging component for Zylos agents (Baileys protocol, QR login)",
       "type": "communication",
       "official": true
+    },
+    "pages": {
+      "repo": "zylos-ai/zylos-pages",
+      "description": "Markdown-to-HTML rendering component — write .md, get beautiful web pages with auth, syntax highlighting, and dark/light theme",
+      "type": "capability",
+      "official": true
     }
   }
 }
