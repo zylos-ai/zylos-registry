@@ -38,6 +38,7 @@
 | [wecom](https://github.com/zylos-ai/zylos-wecom) | communication | WeCom (企业微信) messaging |
 | [slack](https://github.com/zylos-ai/zylos-slack) | communication | Slack messaging (Socket Mode + Webhook) |
 | [dingtalk](https://github.com/zylos-ai/zylos-dingtalk) | communication | DingTalk (钉钉) messaging (Stream mode) |
+| [wechat](https://github.com/zylos-ai/zylos-wechat) | communication | WeChat (微信) messaging (personal account, QR login, multi-account) |
 | [browser](https://github.com/zylos-ai/zylos-browser) | capability | Browser automation |
 | [imagegen](https://github.com/zylos-ai/zylos-imagegen) | capability | AI image generation (Google Gemini) |
 
@@ -58,6 +59,7 @@ zylos add feishu
 zylos add wecom
 zylos add slack
 zylos add dingtalk
+zylos add wechat
 zylos add browser
 zylos add imagegen
 ```

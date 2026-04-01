@@ -36,6 +36,12 @@
       "type": "communication",
       "official": true
     },
+    "wechat": {
+      "repo": "zylos-ai/zylos-wechat",
+      "description": "WeChat (微信) messaging component for Zylos agents (personal account, QR login, multi-account)",
+      "type": "communication",
+      "official": true
+    },
     "hxa-connect": {
       "repo": "coco-xyz/zylos-hxa-connect",
       "description": "HXA-Connect bot-to-bot communication channel via WebSocket",

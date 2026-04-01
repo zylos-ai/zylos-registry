@@ -36,6 +36,7 @@
 | [wecom](https://github.com/zylos-ai/zylos-wecom) | 通讯 | 企业微信消息 |
 | [slack](https://github.com/zylos-ai/zylos-slack) | 通讯 | Slack 消息（Socket Mode + Webhook） |
 | [dingtalk](https://github.com/zylos-ai/zylos-dingtalk) | 通讯 | 钉钉消息（Stream 模式） |
+| [wechat](https://github.com/zylos-ai/zylos-wechat) | 通讯 | 微信消息（个人号、二维码登录、多账号） |
 | [browser](https://github.com/zylos-ai/zylos-browser) | 能力 | 浏览器自动化 |
 | [imagegen](https://github.com/zylos-ai/zylos-imagegen) | 能力 | AI 图像生成（Google Gemini） |
 
@@ -56,6 +57,7 @@ zylos add feishu
 zylos add wecom
 zylos add slack
 zylos add dingtalk
+zylos add wechat
 zylos add browser
 zylos add imagegen
 ```
