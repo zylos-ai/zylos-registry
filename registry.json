@@ -80,7 +80,7 @@
     },
     "dashboard": {
       "repo": "zylos-ai/zylos-dashboard",
-      "description": "Read-only observability dashboard — real-time agent state, cost tracking, PM2 health, trends, and system metrics. Claude + Codex runtime support",
+      "description": "Observability dashboard — real-time agent state, cost tracking, PM2 health, trends, and system metrics. Claude + Codex runtime support",
       "type": "capability",
       "official": true
     }
