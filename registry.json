@@ -77,6 +77,12 @@
       "description": "Markdown-to-HTML rendering component — write .md, get beautiful web pages with auth, syntax highlighting, and dark/light theme",
       "type": "capability",
       "official": true
+    },
+    "dashboard": {
+      "repo": "zylos-ai/zylos-dashboard",
+      "description": "Read-only observability dashboard — real-time agent state, cost tracking, PM2 health, trends, and system metrics. Claude + Codex runtime support",
+      "type": "capability",
+      "official": true
     }
   }
 }
