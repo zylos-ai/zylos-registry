@@ -83,6 +83,24 @@
       "description": "Observability dashboard — real-time agent state, cost tracking, PM2 health, trends, and system metrics. Claude + Codex runtime support",
       "type": "capability",
       "official": true
+    },
+    "ms-teams": {
+      "repo": "zylos-ai/zylos-ms-teams",
+      "description": "Microsoft Teams messaging component for Zylos agents",
+      "type": "communication",
+      "official": true
+    },
+    "zalo": {
+      "repo": "zylos-ai/zylos-zalo",
+      "description": "Zalo Bot Platform messaging component for Zylos agents",
+      "type": "communication",
+      "official": true
+    },
+    "zalo-personal": {
+      "repo": "zylos-ai/zylos-zalo-personal",
+      "description": "Zalo personal account messaging component for Zylos agents (unofficial, via zca-js)",
+      "type": "communication",
+      "official": false
     }
   }
 }
