@@ -101,6 +101,12 @@
       "description": "Zalo personal account messaging component for Zylos agents (unofficial, via zca-js)",
       "type": "communication",
       "official": false
+    },
+    "verified-search": {
+      "repo": "zylos-ai/zylos-verified-search",
+      "description": "Multi-source fact verification engine — cross-validated search with confidence scoring, Playwright fallback, and actionable next-step guidance",
+      "type": "capability",
+      "official": true
     }
   }
 }
