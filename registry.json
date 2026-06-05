@@ -107,6 +107,12 @@
       "description": "Multi-source fact verification engine — cross-validated search with confidence scoring, Playwright fallback, and actionable next-step guidance",
       "type": "capability",
       "official": true
+    },
+    "discord": {
+      "repo": "zylos-ai/zylos-discord",
+      "description": "Discord messaging component for Zylos agents (Gateway/WebSocket) — DMs, servers, threads, voice transcription, polls, and access control with DM pairing",
+      "type": "communication",
+      "official": true
     }
   }
 }
