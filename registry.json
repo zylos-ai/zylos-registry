@@ -113,6 +113,12 @@
       "description": "Discord messaging component for Zylos agents (Gateway/WebSocket) — DMs, servers, threads, voice transcription, polls, and access control with DM pairing",
       "type": "communication",
       "official": true
+    },
+    "recall": {
+      "repo": "zylos-ai/zylos-recall",
+      "description": "Proactive memory retrieval (RAG) — surfaces relevant memory into context each turn",
+      "type": "capability",
+      "official": true
     }
   }
 }
