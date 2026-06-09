@@ -96,6 +96,12 @@
       "type": "communication",
       "official": true
     },
+    "line": {
+      "repo": "zylos-ai/zylos-line",
+      "description": "LINE Messaging API channel component for Zylos agents",
+      "type": "communication",
+      "official": true
+    },
     "zalo-personal": {
       "repo": "zylos-ai/zylos-zalo-personal",
       "description": "Zalo personal account messaging component for Zylos agents (unofficial, via zca-js)",
