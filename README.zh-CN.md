@@ -33,10 +33,10 @@
 | [telegram](https://github.com/zylos-ai/zylos-telegram) | 通讯 | Telegram 消息 |
 | [lark](https://github.com/zylos-ai/zylos-lark) | 通讯 | Lark 消息（国际版） |
 | [feishu](https://github.com/zylos-ai/zylos-feishu) | 通讯 | 飞书消息（中国大陆版） |
-| [wecom](https://github.com/zylos-ai/zylos-wecom) | 通讯 | 企业微信消息 |
+| [wecom](https://github.com/zylos-ai/zylos-wecom) | 通讯 | 企业微信（WeCom / WeChat Work）—— 企业平台，需企业管理员提供凭证；**非**个人微信（个人号请用 `wechat`） |
 | [slack](https://github.com/zylos-ai/zylos-slack) | 通讯 | Slack 消息（Socket Mode + Webhook） |
 | [dingtalk](https://github.com/zylos-ai/zylos-dingtalk) | 通讯 | 钉钉消息（Stream 模式） |
-| [wechat](https://github.com/zylos-ai/zylos-wechat) | 通讯 | 微信消息（个人号、二维码登录、多账号） |
+| [wechat](https://github.com/zylos-ai/zylos-wechat) | 通讯 | 个人微信（微信个人号）—— 二维码登录、多账号、无需企业凭证；**非**企业微信（企业号请用 `wecom`） |
 | [browser](https://github.com/zylos-ai/zylos-browser) | 能力 | 浏览器自动化 |
 | [imagegen](https://github.com/zylos-ai/zylos-imagegen) | 能力 | AI 图像生成（Google Gemini） |
 
