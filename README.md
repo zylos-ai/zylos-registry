@@ -35,10 +35,10 @@
 | [telegram](https://github.com/zylos-ai/zylos-telegram) | communication | Telegram messaging |
 | [lark](https://github.com/zylos-ai/zylos-lark) | communication | Lark (international) messaging |
 | [feishu](https://github.com/zylos-ai/zylos-feishu) | communication | Feishu (飞书, mainland China) messaging |
-| [wecom](https://github.com/zylos-ai/zylos-wecom) | communication | WeCom (企业微信 / WeChat Work) — enterprise platform, corporate credentials from a WeCom admin required; **not** personal WeChat (use `wechat`) |
+| [wecom](https://github.com/zylos-ai/zylos-wecom) | communication | WeCom (企业微信 / WeChat Work) — enterprise platform, set up from the WeCom side; **not** personal WeChat (use `wechat`) |
 | [slack](https://github.com/zylos-ai/zylos-slack) | communication | Slack messaging (Socket Mode + Webhook) |
 | [dingtalk](https://github.com/zylos-ai/zylos-dingtalk) | communication | DingTalk (钉钉) messaging (Stream mode) |
-| [wechat](https://github.com/zylos-ai/zylos-wechat) | communication | Personal WeChat (微信个人号) — QR-code login, multi-account, no corporate credentials; **not** WeCom/企业微信 (use `wecom`) |
+| [wechat](https://github.com/zylos-ai/zylos-wechat) | communication | Personal WeChat (微信个人号) — QR-code login, multi-account, no enterprise setup; **not** WeCom/企业微信 (use `wecom`) |
 | [browser](https://github.com/zylos-ai/zylos-browser) | capability | Browser automation |
 | [imagegen](https://github.com/zylos-ai/zylos-imagegen) | capability | AI image generation (Google Gemini) |
 

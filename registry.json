@@ -14,7 +14,7 @@
     },
     "wecom": {
       "repo": "zylos-ai/zylos-wecom",
-      "description": "WeCom (企业微信 / WeChat Work) — Tencent's ENTERPRISE messaging platform, for company accounts only. Requires corporate credentials (corp ID + app secret) from a WeCom admin. Not for personal 微信 accounts — for those use the 'wechat' component instead",
+      "description": "WeCom (企业微信 / WeChat Work) — Tencent's enterprise messaging platform, for company use. Setup and credentials happen on the WeCom side. Not for personal 微信 accounts — for those use the 'wechat' component instead",
       "type": "communication",
       "official": true
     },
@@ -38,7 +38,7 @@
     },
     "wechat": {
       "repo": "zylos-ai/zylos-wechat",
-      "description": "WeChat (微信) PERSONAL account messaging — logs in to an individual's own WeChat via QR-code scan, no corporate credentials (multi-account supported). Not for 企业微信 / WeCom / WeChat Work — for enterprise accounts use the 'wecom' component instead",
+      "description": "WeChat (微信) personal-account messaging — logs in to an individual's own WeChat via QR-code scan, no enterprise setup involved (multi-account supported). Not for 企业微信 / WeCom / WeChat Work — for enterprise accounts use the 'wecom' component instead",
       "type": "communication",
       "official": true
     },
