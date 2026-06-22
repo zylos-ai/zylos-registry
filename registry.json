@@ -125,6 +125,12 @@
       "description": "Composio Tool Router integration — ~1,000+ app tools (Gmail, Slack, GitHub, Notion, Google Workspace, …) via just-in-time tool-scoping over MCP",
       "type": "capability",
       "official": true
+    },
+    "line": {
+      "repo": "zylos-ai/zylos-line",
+      "description": "LINE Messaging API channel for Zylos agents — signed webhooks, DM/group/room access control, inbound/outbound text, media (image/video/audio/file), stickers, and location",
+      "type": "communication",
+      "official": true
     }
   }
 }
