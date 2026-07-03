@@ -137,6 +137,12 @@
       "description": "Official WhatsApp Business Cloud API DM channel for Zylos agents — Meta webhook ingress with HMAC verification, DM access control, inbound/outbound text and media (image/video/audio/document), approved templates, and 24h customer-service window handling",
       "type": "communication",
       "official": true
+    },
+    "ppt-template": {
+      "repo": "zylos-ai/zylos-ppt-template",
+      "description": "PPT template asset pipeline: distill reusable brand templates from finished decks, store in a local library, generate new on-brand decks, audit color/font compliance",
+      "type": "capability",
+      "official": false
     }
   }
 }
