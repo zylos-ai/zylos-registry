@@ -138,8 +138,8 @@
       "type": "communication",
       "official": true
     },
-    "ppt-template": {
-      "repo": "zylos-ai/zylos-ppt-template",
+    "pptx": {
+      "repo": "zylos-ai/zylos-pptx",
       "description": "PPT template asset pipeline: distill reusable brand templates from finished decks, store in a local library, generate new on-brand decks, audit color/font compliance",
       "type": "capability",
       "official": false
