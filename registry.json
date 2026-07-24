@@ -155,6 +155,12 @@
       "type": "capability",
       "official": true,
       "description": "Portable management client for a Rounds server — manage members, tasks, agent brain, knowledge, reports and settings over HTTPS with a bearer API key from any agent runtime; auto-mirrored from zylos-ai/zylos-rounds on every release"
+    },
+    "doccraft": {
+      "repo": "zylos-ai/zylos-doccraft",
+      "description": "Document design skill — turn reports, proposals, and decision memos into beautiful standalone HTML pages with conclusion-first architecture, dual themes, and progressive disclosure. Runtime-neutral (Claude Code + Codex)",
+      "type": "utility",
+      "official": true
     }
   }
 }
