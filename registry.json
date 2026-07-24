@@ -78,6 +78,12 @@
       "type": "capability",
       "official": true
     },
+    "doccraft": {
+      "repo": "zylos-ai/zylos-doccraft",
+      "description": "Document design skill — turn dense reports, proposals, and decision memos into conclusion-first standalone HTML pages published via pages",
+      "type": "capability",
+      "official": true
+    },
     "dashboard": {
       "repo": "zylos-ai/zylos-dashboard",
       "description": "Observability dashboard — real-time agent state, cost tracking, PM2 health, trends, and system metrics. Claude + Codex runtime support",
