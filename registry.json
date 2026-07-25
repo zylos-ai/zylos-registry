@@ -80,7 +80,7 @@
     },
     "doccraft": {
       "repo": "zylos-ai/zylos-doccraft",
-      "description": "Document design skill — turn dense reports, proposals, and decision memos into conclusion-first standalone HTML pages published via pages",
+      "description": "Document design skill — turn dense reports, proposals, and decision memos into conclusion-first self-contained HTML pages, with optional publishing via pages when installed",
       "type": "capability",
       "official": true
     },
