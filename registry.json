@@ -161,6 +161,12 @@
       "type": "capability",
       "official": true,
       "description": "Portable management client for a Rounds server — manage members, tasks, agent brain, knowledge, reports and settings over HTTPS with a bearer API key from any agent runtime; auto-mirrored from zylos-ai/zylos-rounds on every release"
+    },
+    "plane-client": {
+      "repo": "zylos-ai/zylos-plane-client",
+      "type": "capability",
+      "official": true,
+      "description": "Zero-dependency JSON client for self-hosted Plane Community Edition — safely manage projects, work items, states, labels, comments, cycles and modules over REST with per-agent API keys"
     }
   }
 }
