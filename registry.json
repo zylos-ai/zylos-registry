@@ -150,17 +150,11 @@
       "type": "capability",
       "official": false
     },
-    "rounds": {
-      "repo": "zylos-ai/zylos-rounds",
-      "description": "Rounds — delegated 1:1 voice conversations for teams: an AI agent talks to each member via a personal no-login link (realtime voice, zh/en); built-in daily standup with per-day digests, maintainable agent brain (background/probing/knowledge/dynamic member profiles), multi-provider (OpenAI Realtime / Gemini Live), usage-cost tracking, standalone Docker deploy + portable client CLI",
-      "type": "capability",
-      "official": true
-    },
     "rounds-client": {
       "repo": "zylos-ai/zylos-rounds-client",
       "type": "capability",
       "official": true,
-      "description": "Portable management client for a Rounds server — manage members, tasks, agent brain, knowledge, reports and settings over HTTPS with a bearer API key from any agent runtime; auto-mirrored from zylos-ai/zylos-rounds on every release"
+      "description": "Portable management client for a Rounds server — manage members, tasks, agent brain, knowledge, reports and settings over HTTPS with a bearer API key from any agent runtime"
     },
     "plane-client": {
       "repo": "zylos-ai/zylos-plane-client",
