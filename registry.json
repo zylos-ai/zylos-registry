@@ -161,6 +161,12 @@
       "type": "capability",
       "official": true,
       "description": "Zero-dependency JSON client for self-hosted Plane Community Edition — safely manage projects, work items, states, labels, comments, cycles and modules over REST with per-agent API keys"
+    },
+    "multica": {
+      "repo": "zylos-ai/zylos-multica",
+      "description": "Multica task-platform bridge for Zylos agents — registers the agent as a Multica computer/runtime, claims dispatched issue/chat/quick-create tasks into the live agent session, and reports completion",
+      "type": "communication",
+      "official": true
     }
   }
 }
