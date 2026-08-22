@@ -167,6 +167,12 @@
       "description": "Multica task-platform bridge for Zylos agents — registers the agent as a Multica computer/runtime, claims dispatched issue/chat/quick-create tasks into the live agent session, and reports completion",
       "type": "communication",
       "official": true
+    },
+    "lark-group-digest": {
+      "repo": "zylos-ai/zylos-lark-group-digest",
+      "description": "Automated Lark group message digest — scheduled summaries, image inspection, owner attention board, sensitive-info scanning",
+      "type": "utility",
+      "official": true
     }
   }
 }
