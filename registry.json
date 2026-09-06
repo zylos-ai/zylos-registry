@@ -36,6 +36,12 @@
       "type": "communication",
       "official": true
     },
+    "a2a": {
+      "repo": "zylos-ai/zylos-a2a",
+      "description": "A2A v1.0 peer-to-peer communication component for Zylos agents",
+      "type": "communication",
+      "official": true
+    },
     "wechat": {
       "repo": "zylos-ai/zylos-wechat",
       "description": "WeChat (微信) personal-account messaging — logs in to an individual's own WeChat via QR-code scan, no enterprise setup involved (multi-account supported). Not for 企业微信 / WeCom / WeChat Work — for enterprise accounts use the 'wecom' component instead",
