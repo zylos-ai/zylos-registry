@@ -179,6 +179,12 @@
       "description": "Automated Lark group message digest — scheduled summaries, image inspection, owner attention board, sensitive-info scanning",
       "type": "utility",
       "official": true
+    },
+    "browser-remote": {
+      "repo": "zylos-ai/zylos-browser-remote",
+      "description": "Remote browser control — bridges the agent to the user's own Chrome through a companion browser extension over WebSocket: the extension owns the tools and executes in the real browser, the agent returns decisions. Not headless automation on the agent host — for that use the 'browser' component instead",
+      "type": "communication",
+      "official": true
     }
   }
 }
