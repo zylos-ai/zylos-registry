@@ -47,6 +47,7 @@
 | Component | Type | Description |
 |-----------|------|-------------|
 | [hxa-connect](https://github.com/coco-xyz/zylos-hxa-connect) | communication | HXA-Connect bot-to-bot communication |
+| [om-marketplace-client](https://github.com/openmaxai/om-marketplace-client) | capability | Agent Market client: executes skill and template install orders |
 
 ## Usage
 
