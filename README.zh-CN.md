@@ -45,6 +45,7 @@
 | 组件 | 类型 | 说明 |
 |------|------|------|
 | [hxa-connect](https://github.com/coco-xyz/zylos-hxa-connect) | 通讯 | HXA-Connect 智能体间通讯 |
+| [om-marketplace-client](https://github.com/openmaxai/om-marketplace-client) | 能力 | Agent Market 客户端：执行技能与模板安装订单 |
 
 ## 使用方式
 

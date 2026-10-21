@@ -185,6 +185,12 @@
       "description": "Remote browser control — bridges the agent to the user's own Chrome through a companion browser extension over WebSocket: the extension owns the tools and executes in the real browser, the agent returns decisions. Not headless automation on the agent host — for that use the 'browser' component instead",
       "type": "communication",
       "official": true
+    },
+    "om-marketplace-client": {
+      "repo": "openmaxai/om-marketplace-client",
+      "description": "Agent Market client: executes skill and template install orders for this Agent",
+      "type": "capability",
+      "official": false
     }
   }
 }
